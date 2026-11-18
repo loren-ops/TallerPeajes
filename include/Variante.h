@@ -3,6 +3,7 @@ const int UNIDAD = 7;
 const int DECENA = 3;
 const int CENTENA = 5;
 
+const int AMBULANCIA = 15000 + (200*DECENA);
 const int CARRO = 10000 + (200*UNIDAD);
 const int MOTO = 3000 + (100*UNIDAD);
 const int BUS = 14000 + (300*DECENA);
